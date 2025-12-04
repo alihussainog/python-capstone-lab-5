@@ -43,7 +43,7 @@ Each file contains:
 4. **Visualization Dashboard**
    - Line chart for daily consumption trend.
    - Bar chart for average weekly usage per building.
-# Campus Energy Dashboard – Yash Verma
+# Campus Energy Dashboard – Ali Hussain
 
 This project is my Capstone Assignment for the course **Programming for Problem Solving using Python**.  
 The main idea of the project is to study the electricity consumption of different campus buildings and generate useful insights through data analysis and visualizations.
@@ -174,6 +174,7 @@ Programming for Problem Solving using Python at K.R. Mangalam University.
 
 Submitted by: Ali Hussain
 B.Tech CSE (AI & ML)
+
 
 
 
